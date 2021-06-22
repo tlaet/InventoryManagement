@@ -1,2 +1,2 @@
-# Clustering-retail
+# Inventory-Management
 Cluster K-mean
